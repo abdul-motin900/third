@@ -1,1 +1,2 @@
 this is texxt file , it is use for write somethink
+I added some another text , that I try to push 
